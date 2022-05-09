@@ -18,3 +18,4 @@ public class _2293_동전1 {
         System.out.println(dp[k]);
     }
 }
+// test1
