@@ -18,8 +18,3 @@ public class _2293_동전1 {
         System.out.println(dp[k]);
     }
 }
-// test1
-// test2 - 하위브랜치 변경
-// test3
-// test conflict
-// testNew
